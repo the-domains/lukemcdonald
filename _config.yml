@@ -1,29 +1,41 @@
-name: lukemcdonald
-favicon: null
-layout_spectrum: 0.9892460347618908
-typography_spectrum: 0.2203251151368022
 title: Luke McDonald
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.497030787402764
+  brandStrength: 0.3458781
+  lightness: 0.01477258186787367
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6716108242981136
-  lightness: 0.014772581867873669
-  saturation: 0.49703078740276396
   rhythmicContrast: 0.3564553209580481
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: lukemcdonald
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2203251151368022
+layout_spectrum: 0.5179211
