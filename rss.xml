@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Luke McDonald]]></title>
         <description><![CDATA[Luke McDonald]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lukemcdonald/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 02:58:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 03:05:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lukemcdonald/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AudioTheme]]></title>
+            <description><![CDATA[<article><h1>AudioTheme</h1><p>99/yr Get all of our music themes and plugins for one low price. Perfect for bands, solo musicians, songwriters, and anyone that manages websites for people who make music. Learn More Subscribe Now View Artist Spotlight "It's hard to find a theme designed specifically for musicians that aren't over-the-top and instead have subtle and nuanced design elements.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1034c20aaf87c8503abc6fb3950f130b7e9f3f35.jpg"></article>]]></description>
+            <link>https://audiotheme.com/</link>
+            <guid isPermaLink="false">a5bc6550-6f4c-4b69-8505-be26cc7465c4</guid>
+            <pubDate>Fri, 06 May 2016 03:05:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WordPress Music Theme]]></title>
             <description><![CDATA[<article><h1>WordPress Music Theme</h1><p>Hammer is a minimally modern WordPress theme with bold headlines, a masonry-style blog layout, and all the musician-essential features you've come to love from AudioTheme. Hammer features a masonry-style blog that presents your posts in a three-column layout for a quick overview of your content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e87efb4e84392d77869ba39b92c0fb77cba08ba0.jpg"></article>]]></description>
